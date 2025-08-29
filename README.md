@@ -1,8 +1,6 @@
 # Instagram Clone
 Instagram Clone Demo
 
-# 📱 EECS 485 Project 3: Instagram Clone (Client-side Dynamic Pages)
-
 A full-featured Instagram clone built with client-side dynamic pages using React and Flask, demonstrating modern web development techniques including AJAX, REST APIs, and asynchronous programming.
 
 <img width="481" height="540" alt="image" src="https://github.com/user-attachments/assets/6abbbc4f-8b1f-40dd-a6ed-4f4963dd0e14" />
