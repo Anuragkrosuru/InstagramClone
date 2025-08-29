@@ -235,7 +235,7 @@ npx webpack --mode production
 ## 👨‍💻 Author
 
 **Anurag Krosuru**
-- GitHub: [@Anuragkrosuru](https://github.com/Anuragkrosuru)
+- GitHub: [@Anuragkrosuru](https://github.com/Anuragkrosuru), @justinsu, @tisyaM
 - LinkedIn: [anuragkro](https://www.linkedin.com/in/anuragkro)
 - Course: EECS 485 - Web Systems, University of Michigan
 
