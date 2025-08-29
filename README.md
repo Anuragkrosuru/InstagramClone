@@ -232,12 +232,13 @@ npx webpack --mode production
 - **Formatting**: Prettier automatic formatting
 - **React Best Practices**: Modern React patterns and hooks
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **Anurag Krosuru**
-- GitHub: [@Anuragkrosuru](https://github.com/Anuragkrosuru), @justinsu, @tisyaM
+- GitHub: [@Anuragkrosuru](https://github.com/Anuragkrosuru), 
 - LinkedIn: [anuragkro](https://www.linkedin.com/in/anuragkro)
 - Course: EECS 485 - Web Systems, University of Michigan
+@justinsu, @tisyaM
 
 ## 🙏 Acknowledgments
 
